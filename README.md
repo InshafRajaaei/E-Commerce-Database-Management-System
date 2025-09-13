@@ -67,16 +67,16 @@ Improved performance of 10 complex queries by creating strategic indexes. Used t
 
 E-Commerce-DB-Project/
 │
-├── MariaDB_Schema/                
+├── MariaDB_Schema/
 │   ├── 01_schema_creation.sql
 │   ├── 02_data_insertion.sql
 │   ├── 03_queries.sql
 │   └── 04_tuning_indexes.sql
 │
-├── NoSQL_Aggregate/               
+├── NoSQL_Aggregate/
 │   └── Database_Commands.sql
 │
-├── NoSQL_Graph/                   
+├── NoSQL_Graph/
 │   ├── ENCRYPTION-File
 │   ├── knows_6047cc85618dc1f4307e80ecfb65e5a6.data.json   # zipped folder
 │   ├── persons_d20dd267d55aba2427ce07f1f8b4d46e.data.json # zipped folder
@@ -84,7 +84,7 @@ E-Commerce-DB-Project/
 │   ├── persons_d20dd267d55aba2427ce07f1f8b4d46e.structure.json
 │   └── dump.json
 │
-└── README.md   # You are Here...!                 
+└── README.md   # You are Here...!
 
 ## 🛠️ Technologies Used
 
