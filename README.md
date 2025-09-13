@@ -84,8 +84,8 @@ E-Commerce-DB-Project/
 │   ├── persons_d20dd267d55aba2427ce07f1f8b4d46e.structure.json
 │   └── dump.json
 │
-└── README.md   # You are Here...!                 
-
+└── README.md                      
+                 
 ## 🛠️ Technologies Used
 
 - **Relational DBMS:** MariaDB (MySQL)
