@@ -65,27 +65,21 @@ Improved performance of 10 complex queries by creating strategic indexes. Used t
 
 ## 📁 Repository Structure
 
-E-Commerce-DB-Project/
-│
-├── MariaDB_Schema/
-│   ├── 01_schema_creation.sql
-│   ├── 02_data_insertion.sql
-│   ├── 03_queries.sql
-│   └── 04_tuning_indexes.sql
-│
-├── NoSQL_Aggregate/
-│   └── Database_Commands.sql
-│
-├── NoSQL_Graph/
-│   ├── ENCRYPTION-File
-│   ├── knows_6047cc85618dc1f4307e80ecfb65e5a6.data.json   # zipped folder
-│   ├── persons_d20dd267d55aba2427ce07f1f8b4d46e.data.json # zipped folder
-│   ├── knows_6047cc85618dc1f4307e80ecfb65e5a6.structure.json
-│   ├── persons_d20dd267d55aba2427ce07f1f8b4d46e.structure.json
-│   └── dump.json
-│
-└── README.md   # You are Here...!
-
+- E-Commerce-DB-Project/
+  - MariaDB_Schema/
+    - 01_schema_creation.sql
+    - 02_data_insertion.sql
+  - NoSQL_Aggregate/
+    - Database_Commands.sql
+  - NoSQL_Graph/
+    - ENCRYPTION-File
+    - knows_....data.json
+    - persons_....data.json
+    - knows_....structure.json
+    - persons_....structure.json
+    - dump.json
+  - README.md
+                     
 ## 🛠️ Technologies Used
 
 - **Relational DBMS:** MariaDB (MySQL)
