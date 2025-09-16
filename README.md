@@ -98,7 +98,7 @@ Improved performance of 10 complex queries by creating strategic indexes. Used t
 
 1.  **Clone the repo:**
     ```bash
-    git clone https://github.com/<your-username>/E-Commerce-DB-Project.git
+    git https://github.com/InshafRajaaei/E-Commerce-Database-Management-System.git
     ```
 2.  **Run the SQL scripts** in the `MariaDB_Schema` folder in sequence within a MariaDB client to recreate the database.
 3.  **PostgreSQL Aggregate DB:** Restore the dumped database:
